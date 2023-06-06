@@ -63,6 +63,10 @@ ul {
   padding-left: 20px;
   margin-bottom: 10px;
 }
+#projetos{
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .card {
   background-color: #fff;
